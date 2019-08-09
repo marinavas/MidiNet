@@ -11,6 +11,8 @@ from sklearn.utils import shuffle
 from ops import *
 from utils import *
 
+
+#test
 class MidiNet(object):
     def __init__(self, sess, is_crop=False,
                  batch_size=72, sample_size = 72, output_w=16,output_h=128,
